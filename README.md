@@ -12,6 +12,7 @@ Install it with ```pip install quitaracentos```.
 
 ## Ejemplo/Example
 ```
-  from quitaracentos import qutaracentos
+  from quitaracentos import quitaracentos
+
   print(quitaracentos("áÁéÉíÍóÓúÚüÜñÑ")) # -> aAeEiIoOuUuUñÑ
 ```
