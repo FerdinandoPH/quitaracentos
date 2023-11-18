@@ -2,6 +2,8 @@
 
 © 2023 FerdinandoPH
 
+PyPi page/Página de PyPi: https://pypi.org/project/quitaracentos/
+
 Descripción: Este programa quita los acentos españoles de una palabra o frase, dejando la ñ. Es un programa muy simplón, pero es una forma rápida y eficiente de quitar los acentos dejando la ñ y no tener que preocuparse de tronchos largos de escribir como regex cada vez que necesites quitar los acentos
 
 Instálalo con ```pip install quitaracentos```.
